@@ -1,3 +1,3 @@
 # VIKTOR push test
 
-Author probe 1: commit made by a GitHub App with an installation token.
+Author probe 2: commit made by a GitHub App with an installation token.
