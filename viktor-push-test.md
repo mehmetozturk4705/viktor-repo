@@ -1,3 +1,1 @@
-# VIKTOR push test
-
-Protected branch probe: app on the bypass list.
+probe signed rule, app on bypass list at 1795615231
